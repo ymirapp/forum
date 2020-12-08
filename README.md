@@ -8,7 +8,7 @@
 
 A place to ask questions, get help, or share what you've built with Ymir.
 
-Head over to the issues to get involved:
+Head over to the discussion section to get involved:
 
 [Discuss Ymir][2]
 
@@ -17,5 +17,5 @@ Head over to the issues to get involved:
  * [Documentation][3]
 
 [1]: https://ymirapp.com
-[2]: https://github.com/ymirapp/discussion/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+[2]: https://github.com/ymirapp/discussion/discussions
 [3]: https://docs.ymirapp.com
